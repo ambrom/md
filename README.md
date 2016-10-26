@@ -6,3 +6,9 @@
 
 ## Osnovni tipi
 
+v Nadaljevanju
+
+    Coda
+
+
+Konec
