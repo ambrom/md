@@ -1,5 +1,8 @@
 # md
+# *1.*
+## _Vaje iz markdown sintakse_
 
-#H3
-_Vaje iz markdown sintakse_
+# *2.*
+
+## Osnovni tipi
 
