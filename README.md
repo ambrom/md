@@ -1,14 +1,4 @@
-# md
-# *1.*
-## _Vaje iz markdown sintakse_
+# APan
 
-# *2.*
+## _Still nothing here_
 
-## Osnovni tipi
-
-v Nadaljevanju
-
-    Coda
-
-
-Konec
